@@ -12,3 +12,4 @@
 - [having](https://github.com/kuntiarso/Database-Learning/blob/master/postgres/having.sql)
 - [min_max_avg](https://github.com/kuntiarso/Database-Learning/blob/master/postgres/min_max_avg.sql)
 - [sum](https://github.com/kuntiarso/Database-Learning/blob/master/postgres/sum.sql)
+- [arithmetic](https://github.com/kuntiarso/Database-Learning/blob/master/postgres/arithmetic.sql)
